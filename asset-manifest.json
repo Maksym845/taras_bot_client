@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/taras_bot_client/static/css/main.63bd03b7.css",
-    "main.js": "/taras_bot_client/static/js/main.0ca9bacc.js",
+    "main.js": "/taras_bot_client/static/js/main.043b11cd.js",
     "static/js/787.b3e78b69.chunk.js": "/taras_bot_client/static/js/787.b3e78b69.chunk.js",
     "index.html": "/taras_bot_client/index.html",
     "main.63bd03b7.css.map": "/taras_bot_client/static/css/main.63bd03b7.css.map",
-    "main.0ca9bacc.js.map": "/taras_bot_client/static/js/main.0ca9bacc.js.map",
+    "main.043b11cd.js.map": "/taras_bot_client/static/js/main.043b11cd.js.map",
     "787.b3e78b69.chunk.js.map": "/taras_bot_client/static/js/787.b3e78b69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63bd03b7.css",
-    "static/js/main.0ca9bacc.js"
+    "static/js/main.043b11cd.js"
   ]
 }
